@@ -167,4 +167,10 @@ export const robots = [
 	username:'sumit_p123',
 	email:'sumit1223@gmail.com'
 },
+{
+	id: 31,
+	name:'Yashika',
+	username:'Y A S H I K A',
+	email:'yashika123@gmail.com'
+},
 	]
