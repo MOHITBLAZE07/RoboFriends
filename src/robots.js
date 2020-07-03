@@ -146,8 +146,8 @@ export const robots = [
 {
 	id: 25,
 	name:'Aakash Kumar Pal',
-	username:'dark_hack',
-	email:'codeneo123@gmail.com'
+	username:'a_a_k_u_s_h',
+	email:'nishuaka123@gmail.com'
 },
 {
 	id: 26,
