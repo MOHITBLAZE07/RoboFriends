@@ -67,7 +67,7 @@ export const robots = [
 },
 {
 	id: 12,
-	name:'Muskan Agarwal',
+	name:'Muskan Agrawal',
 	username:'musu__',
 	email:'muskan12312@gmail.com'
 },
@@ -142,5 +142,29 @@ export const robots = [
 	name:'Pratik Tiwari',
 	username:'dark_hack',
 	email:'codeneo123@gmail.com'
+},
+{
+	id: 25,
+	name:'Aakash Kumar Pal',
+	username:'dark_hack',
+	email:'codeneo123@gmail.com'
+},
+{
+	id: 26,
+	name:'Shreya yadav',
+	username:'_.shreyadav._',
+	email:'shreya123@gmail.com'
+},
+{
+	id: 27,
+	name:'Ishwarya',
+	username: 'payasam' ,
+	email:'ishu2000@gmail.com'
+},
+{
+	id: 28,
+	name:'Sumit Pal',
+	username:'sumit_p123',
+	email:'sumit1223@gmail.com'
 },
 	]
