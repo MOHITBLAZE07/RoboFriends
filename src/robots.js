@@ -173,4 +173,22 @@ export const robots = [
 	username:'Y A S H I K A',
 	email:'yashika123@gmail.com'
 },
+{
+	id: 32,
+	name:'Itisha',
+	username:'P O K E M O N 💚',
+	email:'itisha01@gmail.com'
+},
+{
+	id: 33,
+	name:'Abhilasha',
+	username:'C O U N C I',
+	email:'abhiadi123@gmail.com'
+},
+{
+	id: 34,
+	name:'Sapna Singh',
+	username:'S A P N A',
+	email:'sapna123@gmail.com'
+},
 	]
